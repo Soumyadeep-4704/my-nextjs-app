@@ -1,0 +1,15 @@
+.container{
+    padding: 20px;
+    background-color: #aa9f9f;
+}
+
+.title{
+    font-size: 2rem;
+    color: oklch(37.9% 0.146 265.522);
+}
+
+.content{
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-top: 10px;
+}
